@@ -1,0 +1,12 @@
+{
+	//	indexPage配置后，会提升为整个小程序项目的首页
+	"indexPage":"",
+	"pages": [
+		{
+			"path": "pages/about/about",
+			"style": {
+				"navigationBarTitleText": "uni-app"
+			}
+		}
+	]
+}
