@@ -14,5 +14,8 @@ App({
     },
     onHide() {
         // do something when hide
+    },
+    globalData:{
+        a:222
     }
 });

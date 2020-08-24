@@ -42,7 +42,7 @@
     "flyio": "^0.6.2",
     "fs-extra": "^9.0.1",
     "regenerator-runtime": "^0.12.1",
-    "uniapp2wxpack": "^3.3.12",
+    "uniapp2wxpack": "^3.3.16",
     "vue": "^2.6.10",
     "vuex": "^3.0.1"
   },
